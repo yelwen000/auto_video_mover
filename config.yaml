@@ -1,0 +1,4 @@
+videos: []
+categories: [music, gaming, movies, technology]
+refresh_interval_hours: 1
+region_code: US

@@ -1,0 +1,4 @@
+requests
+yaml
+pytube
+moviepy
